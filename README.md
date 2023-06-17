@@ -1,6 +1,6 @@
 ### Usage:
 
-Sandard
+Standard
 
 ```bash
  cargo run <query> <file path>
